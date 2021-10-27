@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-page/static/css/main.a4b9dd42.chunk.css",
+    "main.js": "/react-page/static/js/main.e3d097e2.chunk.js",
+    "main.js.map": "/react-page/static/js/main.e3d097e2.chunk.js.map",
+    "runtime-main.js": "/react-page/static/js/runtime-main.d903bba8.js",
+    "runtime-main.js.map": "/react-page/static/js/runtime-main.d903bba8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/react-page/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8b09beeb.chunk.js": "/react-page/static/js/2.8b09beeb.chunk.js",
+    "static/js/2.8b09beeb.chunk.js.map": "/react-page/static/js/2.8b09beeb.chunk.js.map",
+    "index.html": "/react-page/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/react-page/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a4b9dd42.chunk.css.map": "/react-page/static/css/main.a4b9dd42.chunk.css.map",
+    "static/js/2.8b09beeb.chunk.js.LICENSE.txt": "/react-page/static/js/2.8b09beeb.chunk.js.LICENSE.txt",
+    "static/media/android.fc2cf39b.jpg": "/react-page/static/media/android.fc2cf39b.jpg",
+    "static/media/app.2fbe5dd9.jpg": "/react-page/static/media/app.2fbe5dd9.jpg",
+    "static/media/firmbee-com-DfMMzzi3rmg-unsplash.af0b0440.jpg": "/react-page/static/media/firmbee-com-DfMMzzi3rmg-unsplash.af0b0440.jpg",
+    "static/media/lukas-blazek-mcSDtbWXUZU-unsplash.450fd789.jpg": "/react-page/static/media/lukas-blazek-mcSDtbWXUZU-unsplash.450fd789.jpg",
+    "static/media/search.4832f1c5.svg": "/react-page/static/media/search.4832f1c5.svg",
+    "static/media/software.69de8cd1.jpg": "/react-page/static/media/software.69de8cd1.jpg",
+    "static/media/undraw_Personal_text_re_vqj3.2b23aa39.svg": "/react-page/static/media/undraw_Personal_text_re_vqj3.2b23aa39.svg",
+    "static/media/undraw_Social_media_re_w12q.00c12461.svg": "/react-page/static/media/undraw_Social_media_re_w12q.00c12461.svg",
+    "static/media/undraw_version_control_re_mg66.809f3c51.svg": "/react-page/static/media/undraw_version_control_re_mg66.809f3c51.svg",
+    "static/media/web.cf9de54f.jpg": "/react-page/static/media/web.cf9de54f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d903bba8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8b09beeb.chunk.js",
+    "static/css/main.a4b9dd42.chunk.css",
+    "static/js/main.e3d097e2.chunk.js"
+  ]
+}
