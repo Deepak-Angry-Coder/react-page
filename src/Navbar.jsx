@@ -5,7 +5,7 @@ import {NavLink} from 'react-router-dom'
 
 
 const Navbar = () => {
-   const github ='https://github.com/Deepak-AngryCoder'
+   const github ='https://github.com/Deepak-Angry-Coder'
 
 const show_Event = ()=>{
 
